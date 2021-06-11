@@ -4,8 +4,8 @@ namespace ETMS
 {
     class Program
     {
-        //Dito pinapakita kung ilan ang bibili ng product na available
-       //At 
+        //Dito pinapakita kung ilan ang bibili ng product na available.
+       //At kung paano mag add ng items sa order na gusto ng customer.
 
         static void Main(string[] args)
         {
@@ -51,8 +51,8 @@ namespace ETMS
             string Email = Console.ReadLine();
             Console.WriteLine(Email);
 
-
-            //pano magdagdag ng order of shoes.
+           
+            //dito na yong process ng pag add ng items.
 
 
             Console.Write("Enter add item if you want to add you order of shoes: ");
